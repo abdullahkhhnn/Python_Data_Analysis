@@ -50,6 +50,19 @@ It covers everything from Python fundamentals to data analysis, visualization, e
 
 ---
 
+## Portfolio Projects
+
+Currently, the main project in this repo is:
+
+### 1. Titanic Data Analysis
+- Dataset Source: [https://www.kaggle.com/datasets/yasserh/titanic-dataset]
+- Explored factors affecting survival: **gender, class, age, family size, fare, port**
+- Feature engineering: FamilySize, IsAlone
+- Key insight: **Gender and class were strongest survival factors**
+- Includes visualizations: bar plots, histograms, KDE plots, boxplots, and combined analysis
+
+---
+
 ## 🎯 Purpose
 The goal of this repository is to:
 - Build a basic to intermediate foundation in Python
